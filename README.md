@@ -77,7 +77,6 @@ python software2.0.py
 | Méthode               | Traitement d’image classique       | Intelligence artificielle (YOLOv3)      |
 | Reconnaissance        | Aucune                             | Oui, objets nommés et localisés         |
 | Code écrit à la main  | Oui (règles explicites)            | Non (réseau appris à partir de données) |
-| Flexibilité           | Faible                             | Très élevée                              |
 | Compréhension de scène| Non                                | Oui                                      |
 
 ---
@@ -88,4 +87,3 @@ Cette démo permet de visualiser la différence entre :
 - **Programmer pour dire à la machine comment faire** (Software 1.0)
 - **Entraîner la machine à apprendre à faire** (Software 2.0)
 
-Elle illustre parfaitement le passage du **code explicite** à l’**intelligence apprise**, cœur du concept de **Software 2.0**.
