@@ -41,7 +41,7 @@ python software1.0.py
    - Transforme les pixels détectés en **contours exploitables**.
 5. Affichage de l’image avec les **contours dessinés** en vert.
 
-> ✅ Ce script illustre une méthode **déterministe**, où l’on code manuellement les étapes du traitement.  
+> ✅ Ce script illustre une méthode  où l’on code manuellement les étapes du traitement.  
 > ❌ Il ne reconnaît pas les objets (ex : il voit un contour, mais ne sait pas que c’est un chien ou une voiture).
 
 ---
@@ -65,7 +65,7 @@ python software2.0.py
    - Si confiance > 0.5 → affichage d’un **rectangle vert** avec le **nom de l’objet détecté**.
 5. Affichage de l’image annotée avec les objets reconnus.
 
-> ✅ Cette méthode est **probabiliste et intelligente** : elle détecte et **reconnaît** les objets dans la scène.  
+> ✅ Cette méthode  détecte et **reconnaît** les objets dans la scène.  
 > 🤯 Exemple : le réseau peut détecter une “person”, une “dog” ou une “bicycle”, car il a appris cela à partir de milliers d’images.
 
 ---
@@ -89,4 +89,3 @@ Cette démo permet de visualiser la différence entre :
 - **Entraîner la machine à apprendre à faire** (Software 2.0)
 
 Elle illustre parfaitement le passage du **code explicite** à l’**intelligence apprise**, cœur du concept de **Software 2.0**.
-```
