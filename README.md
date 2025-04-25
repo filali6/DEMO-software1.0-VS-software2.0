@@ -1,11 +1,11 @@
-```markdown
+
 # 🧠 Démo : Software 1.0 vs Software 2.0 – Détection d’Objets
 
 Cette démo a pour but de comparer deux approches de la détection d'objets dans une image :  
 - **Software 1.0** : Programmation classique basée sur des règles explicites (ex : détection de contours avec OpenCV).  
 - **Software 2.0** : Programmation moderne basée sur l'apprentissage automatique (ex : détection d’objets avec un réseau YOLOv3).
 
----
+
 
 ## 📁 Contenu du projet
 
@@ -19,7 +19,6 @@ Le projet contient les fichiers suivants :
 - `coco.names` : Liste des noms de classes (person, dog, car...).
 - `README.md` : Ce fichier explicatif.
 
----
 
 ## ▶️ Exécution des codes
 
